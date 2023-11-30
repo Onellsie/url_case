@@ -1,0 +1,3 @@
+C:/Users/comp/OneDrive/Рабочий стол/URL Case/build/CMakeFiles/URLCase.dir
+C:/Users/comp/OneDrive/Рабочий стол/URL Case/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/comp/OneDrive/Рабочий стол/URL Case/build/CMakeFiles/ZERO_CHECK.dir

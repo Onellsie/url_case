@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/comp/OneDrive/Рабочий стол/URL Case/CMakeLists.txt
+  Unit_test.cpp
+  Test_Url.cpp
+  URL.cpp
+  Создание кода...
+C:\Users\comp\OneDrive\Рабочий стол\URL Case\src\URL.cpp(53): warning C4715: URL::userinfo_prs: значение возвращается не при всех путях выполнения
+  URLCase.vcxproj -> C:\Users\comp\OneDrive\Рабочий стол\URL Case\build\Release\URLCase.exe

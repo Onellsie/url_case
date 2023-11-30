@@ -1,0 +1,6 @@
+scheme://username:password@host:port/path?query#fragment
+https://:123@google.com
+https://nik:@google.com
+https://nik:123@google.com#qwerty
+https://
+https://google.com:8080

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\comp\OneDrive\Рабочий стол\URL Case\src\Unit_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\comp\OneDrive\Рабочий стол\URL Case\src\Test_Url.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\comp\OneDrive\Рабочий стол\URL Case\src\URL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\comp\OneDrive\Рабочий стол\URL Case\src\Test_Url.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\comp\OneDrive\Рабочий стол\URL Case\src\URL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\comp\OneDrive\Рабочий стол\URL Case\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6BB34033-BAD7-3E6E-A288-F4A86608F20E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DA29F570-1DDE-395F-89F7-04C63725151E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

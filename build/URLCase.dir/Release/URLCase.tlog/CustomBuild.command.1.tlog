@@ -1,0 +1,10 @@
+^C:\USERS\COMP\ONEDRIVE\РАБОЧИЙ СТОЛ\URL CASE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/comp/OneDrive/Рабочий стол/URL Case" "-BC:/Users/comp/OneDrive/Рабочий стол/URL Case/build" --check-stamp-file "C:/Users/comp/OneDrive/Рабочий стол/URL Case/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
